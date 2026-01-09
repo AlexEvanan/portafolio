@@ -65,7 +65,8 @@ Principales desagregaciones:
 ---
 
 ### 📈 Dashboard (Power BI)
-[![VISIBLE](img/EN.gif)]([VISIBLE](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas))
+[Ver](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas)
+![VISIBLE](img/EN.gif)
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
 
 ---
@@ -162,15 +163,18 @@ Principales desagregaciones:
 
 ### 📈 Dashboard (Power BI)
 #### **Situación de las personas con discapacidad: ¿Cómo vamos?**  
-[![Cómo vamos](img/DEC.gif)]([Cómo_vamos](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9))
+[Ver](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+![Cómo vamos](img/DEC.gif)
 
 
 #### **Infracciones bajo la lupa: ¿Qué estamos fiscalizando?**   
-[![Qué estamos fiscalizando](img/FIS.gif)]([fisca](https://app.powerbi.com/view?r=eyJrIjoiNDU3ZDBjYWEtODBiMi00OGZiLWIzNGQtZmNlZjA1ZGZmMWIxIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9))
+[Ver](https://app.powerbi.com/view?r=eyJrIjoiNDU3ZDBjYWEtODBiMi00OGZiLWIzNGQtZmNlZjA1ZGZmMWIxIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+![Qué estamos fiscalizando](img/FIS.gif)
 
 
 #### **Explora el Registro del CONADIS: ¿Cuántas personas con discapacidad están registradas en el RNPCD?**   
-[![Registro](img/REG.gif)]([reg](https://app.powerbi.com/view?r=eyJrIjoiNmJjYTIyMTQtOTY4Mi00YTYxLTg1MzgtYWFjODk4ZmQwZWI3IiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9))
+[Ver](https://app.powerbi.com/view?r=eyJrIjoiNmJjYTIyMTQtOTY4Mi00YTYxLTg1MzgtYWFjODk4ZmQwZWI3IiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+![Registro](img/REG.gif)
 
 
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
@@ -196,9 +200,11 @@ Implementar **dashboards** estadísticos para la sección [**Estadísticas MIMP*
 
 ### 📈 Dashboard (Power BI)
 #### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  
-[![117](img/PP117.gif)]([117](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9))
+[Ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+![117](img/PP117.gif)
 
 
 #### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   
-[![142](img/PP142.gif)]([142](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9))
+[Ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+![142](img/PP142.gif)
 
