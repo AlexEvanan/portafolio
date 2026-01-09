@@ -64,8 +64,7 @@ Principales desagregaciones:
 
 ---
 
-### 📈 Dashboard (Power BI)
-[Ver](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas)
+### 📈 Dashboard (Power BI) [🔗ver](https://visible.dansantivanezdev.space/observatorios/discapacidad/estadisticas)
 ![VISIBLE](img/EN.gif)
 > Los dashboards permiten filtros dinámicos por periodo, región, área de residencia y características poblacionales.
 
@@ -92,6 +91,8 @@ discapacidad para las entidades públicas, centros de investigación, entre otro
 
 ### 🧮 Estructura del proyecto
 Organización del proyecto orientada a reproducibilidad, control de versiones y carga en Power BI:
+
+🔗 [Documentación técnica](documentacion.pdf)
 
 ```cmd
 /DISCAPACIDAD EN CIFRAS 2025/
@@ -134,7 +135,6 @@ Organización del proyecto orientada a reproducibilidad, control de versiones y 
 ├───README.md               # Documentación
 └───.venvCONADIS            # Entorno virtual
 ```
-🔗 [Documentación técnica](documentacion.pdf)
 
 ---
 
@@ -162,18 +162,15 @@ Principales desagregaciones:
 ---
 
 ### 📈 Dashboard (Power BI)
-#### **Situación de las personas con discapacidad: ¿Cómo vamos?**  
-[Ver](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+#### **Situación de las personas con discapacidad: ¿Cómo vamos?**  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiYmRmM2UyMzAtMzkzMy00MWE2LTlmYmQtMjZjMDI0OGZlYzAzIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
 ![Cómo vamos](img/DEC.gif)
 
 
-#### **Infracciones bajo la lupa: ¿Qué estamos fiscalizando?**   
-[Ver](https://app.powerbi.com/view?r=eyJrIjoiNDU3ZDBjYWEtODBiMi00OGZiLWIzNGQtZmNlZjA1ZGZmMWIxIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+#### **Infracciones bajo la lupa: ¿Qué estamos fiscalizando?**   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiNDU3ZDBjYWEtODBiMi00OGZiLWIzNGQtZmNlZjA1ZGZmMWIxIiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
 ![Qué estamos fiscalizando](img/FIS.gif)
 
 
-#### **Explora el Registro del CONADIS: ¿Cuántas personas con discapacidad están registradas en el RNPCD?**   
-[Ver](https://app.powerbi.com/view?r=eyJrIjoiNmJjYTIyMTQtOTY4Mi00YTYxLTg1MzgtYWFjODk4ZmQwZWI3IiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
+#### **Explora el Registro del CONADIS: ¿Cuántas personas con discapacidad están registradas en el RNPCD?**   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiNmJjYTIyMTQtOTY4Mi00YTYxLTg1MzgtYWFjODk4ZmQwZWI3IiwidCI6IjA5OTJkMDkyLTIyZDktNDVhOC05M2EwLTY3NTY4ZGMzMDY4MiIsImMiOjR9)
 ![Registro](img/REG.gif)
 
 
@@ -199,12 +196,10 @@ Implementar **dashboards** estadísticos para la sección [**Estadísticas MIMP*
 ---
 
 ### 📈 Dashboard (Power BI)
-#### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  
-[Ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+#### **Programa Presupuestale 117:** Niñas, Niños y Adolescentes (NNA)  [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiODA0YmY2OTEtYTE2ZC00NjM0LWFkYWItOWQ1NWQwMmUwN2RjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 ![117](img/PP117.gif)
 
 
-#### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   
-[Ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
+#### **Programa Presupuestale 142:** Personas Adultas Mayores (PAM)   [🔗ver](https://app.powerbi.com/view?r=eyJrIjoiMjI1NzJiZGYtMGYzYi00MDAwLTg3ODgtMDk4ZTJhOTU2MDNlIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 ![142](img/PP142.gif)
 
